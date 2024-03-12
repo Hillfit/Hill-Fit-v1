@@ -1,2 +1,3 @@
-# Hill-Fit-v1
-📕 PDF version of the original Hill Fit 
+# Hill Fit version 1
+
+📕 PDF version of the original Hill Fit
